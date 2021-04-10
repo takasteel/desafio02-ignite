@@ -9,5 +9,6 @@ This is an app that simulates a shoes e-commerce website.
 clone the repository and run
 ```bash
 yarn
-yarn dev
+yarn server
+yarn start
 ```
